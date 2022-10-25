@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laba14API</string>
+    <string name="RandomJoke">Случайная шутка</string>
+    <string name="CollectionOfJokes">Сборник шуток</string>
+    <string name="btn_Punchline">Punchline</string>
+    <string name="btn_geek">Geek</string>
+</resources>
